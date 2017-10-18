@@ -8,6 +8,7 @@
   <li>CSS</li>
   <li>Git</li>
   <li>JavaScript</li>
+  <li>Command Line</li>
 </ol>
 </body>
 </html>
